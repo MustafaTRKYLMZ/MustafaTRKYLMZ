@@ -1,3 +1,8 @@
+<a href="https://www.linkedin.com/in/mustafa-t-83b138158" title="Linkedin Profile">
+      <img alt="html5"
+        src="https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+</a>
+
 ### Hi 👋, I'm Mustafa 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=MustafaTRKYLMZ.visitor-badge&left_text=My%20Page%20Visitors)
 
