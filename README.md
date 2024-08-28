@@ -1,14 +1,9 @@
-<a href="https://www.linkedin.com/in/mustafa-t-83b138158" title="Linkedin Profile">
-      <img alt="html5"
-        src="https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-</a>
 
 ### Hi 👋, I'm Mustafa 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=MustafaTRKYLMZ.visitor-badge&left_text=My%20Page%20Visitors)
 
 [![MustafaTRKYLMZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaTRKYLMZ&private=true&show_icons=true&hide=stars&theme=vue)](https://github.com/MustafaTRKYLMZ/MustafaTRKYLMZ)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTRKYLMZ&count_private=true&layout=compact&show_icons=true&theme=vue)
-
 
 
 <p>
