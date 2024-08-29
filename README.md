@@ -32,11 +32,6 @@
     alt="Chakra UI"
     src="https://img.shields.io/badge/-ChakraUI-teal?logo=ChakraUI&logoColor=white"
   />
-  
-   <img
-    alt="Java"
-    src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"
-  />
   <img
     alt="NodeJS"
     src="https://img.shields.io/badge/-NodeJS-43853d?logo=Node.js&logoColor=white"
