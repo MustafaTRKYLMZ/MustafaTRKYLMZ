@@ -16,10 +16,6 @@
     src="https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=black"
   />
   <img
-    alt="React Native"
-    src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB"
-  />
-  <img
     alt="Next JS"
     src="https://img.shields.io/badge/-NextJS-black?logo=next.js&logoColor=white"
   />
