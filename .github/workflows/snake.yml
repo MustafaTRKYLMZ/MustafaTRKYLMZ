@@ -24,6 +24,10 @@ jobs:
 
       - name: Add weekday labels
         run: |
+          # Fix permissions for dist/ (snk sometimes writes as root)
+          sudo chown -R "$USER":"$USER" dist || true
+          sudo chmod -R u+rwX dist || true
+
           python3 scripts/label_snake_svg.py dist/github-snake.svg dist/github-snake-labeled.svg
           python3 scripts/label_snake_svg.py dist/github-snake-dark.svg dist/github-snake-dark-labeled.svg
 
