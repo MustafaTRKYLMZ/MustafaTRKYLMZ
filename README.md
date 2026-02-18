@@ -2,10 +2,9 @@
 ### Hi 👋, I'm Mustafa 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=MustafaTRKYLMZ.visitor-badge&left_text=My%20Page%20Visitors)
 
-[![MustafaTRKYLMZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=MustafaTRKYLMZ&private=true&show_icons=true&hide=stars&theme=vue)](https://github.com/MustafaTRKYLMZ/MustafaTRKYLMZ)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaTRKYLMZ&count_private=true&layout=compact&show_icons=true&theme=vue)
+![Contribution Snake (labeled)](https://raw.githubusercontent.com/MustafaTRKYLMZ/MustafaTRKYLMZ/output/github-snake-labeled.svg)
 
-<p>
+
   <strong>Technologies I Use:</strong>
 </p>
 <h2>Frontend</h2>
