@@ -14,7 +14,7 @@ Passionate about clean architecture, scalable solutions, and continuous improvem
 
 ## 🛠 Core Stack
 
-### Frontend (Primary Focus)
+### Frontend 
 <p>
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white" />
