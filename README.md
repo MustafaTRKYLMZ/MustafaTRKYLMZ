@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Mustafa  
 Full-Stack Developer (React-Focused) | TypeScript • Node • React Native • Electron
 
-I build modern web and desktop applications with React and TypeScript.  
+I build modern web, mobile and desktop applications with React, React Native and TypeScript.  
 Passionate about clean architecture, scalable solutions, and continuous improvement.
 
 📍 Based in the Netherlands
